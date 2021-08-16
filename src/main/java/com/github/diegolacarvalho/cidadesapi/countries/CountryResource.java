@@ -2,8 +2,7 @@ package com.github.diegolacarvalho.cidadesapi.countries;
 
 
 
-import com.github.diegolacarvalho.cidadesapi.countries.Country;
-import com.github.diegolacarvalho.cidadesapi.repository.CountryRepository;
+import com.github.diegolacarvalho.cidadesapi.countries.repository.CountryRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;
